@@ -1,37 +1,78 @@
-# Useful resources**
-**on my freaky mind
+# Interesting resources\*\*
+
+\*\*on my freaky mind
 
 ## Overview
-Here I'd like to save resources I found interesting, or even useful :)
 
-Started collecting since `07-19-2022`
+- Here I'd like to save resources I found interesting, or even useful :)
 
-# Resources
+- Collecting since `07-19-2022`
+
+- Inspired of [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
+
+---
+
+Table of Contents
+
+---
+
+- [Linux](#linux)
+
+- [Hardware](#hardware)
+- [Networking](#networking)
+- [Python](#python)
+- [Vimscript](#vimscript)
+- [Reinforcement learning](#reinforcement-learning)
+- [Math-related resources](#math-related-resources)
+
+# Technical Resources
+
 ## Linux
+
 ### Courses
-[Linux journey](https://linuxjourney.com/)
+
+- [Linux journey](https://linuxjourney.com/)
 
 ## Hardware
 
 ### Books
-[What Every Programmer Should Know About Memory](https://akkadia.org/drepper/cpumemory.pdf)
 
-## Machine learning/Deep learning
+- [What Every Programmer Should Know About Memory](https://akkadia.org/drepper/cpumemory.pdf)
 
-## Reinforcement learning
+## Networking
 
-### Books
-[An Introduction to Deep
-Reinforcement Learning](https://arxiv.org/pdf/1811.12560.pdf)
+### Blogs
 
-### Courses
-[The Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class)
+- [Let's code a TCP/IP stack](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 
 ## Python
+
 ### Blogs
-[Python behind the scenes (with diving inside the Cpython)](https://tenthousandmeters.com/)
+
+- [Python behind the scenes (with diving into the Cpython)](https://tenthousandmeters.com/)
 
 ## Vimscript
 
 ### Books
-[Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
+
+- [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
+
+## Reinforcement learning
+
+### Books
+
+- [An Introduction to Deep Reinforcement Learning](https://arxiv.org/pdf/1811.12560.pdf)
+
+### Courses
+
+- [The Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class)
+
+## Math-related Resources
+
+### Blogs
+
+- [Math and programming blog](https://jeremykun.com/)
+
+- [Making Music with Math](https://aatishb.com/stringmath/)
+
+- [Solving the Sound of a Guitar String](http://large.stanford.edu/courses/2007/ph210/pelc2/)
