@@ -16,14 +16,19 @@ Table of Contents
 
 ---
 
-- [Linux](#linux)
+**Programming**
 
+- [Linux](#linux)
 - [Hardware](#hardware)
 - [Networking](#networking)
 - [Python](#python)
 - [Vimscript](#vimscript)
 - [Reinforcement learning](#reinforcement-learning)
-- [Math-related resources](#math-related-resources)
+
+**Math**
+
+- [Programming](#programming)
+- [Music](#music)
 
 # Technical Resources
 
@@ -67,11 +72,17 @@ Table of Contents
 
 - [The Hugging Face Deep Reinforcement Learning Class](https://github.com/huggingface/deep-rl-class)
 
-## Math-related Resources
+# Math-related Resources
+
+## Programming
 
 ### Blogs
 
 - [Math and programming blog](https://jeremykun.com/)
+
+## Music
+
+### Blogs
 
 - [Making Music with Math](https://aatishb.com/stringmath/)
 
