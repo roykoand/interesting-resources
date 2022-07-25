@@ -4,7 +4,7 @@
 
 ## Overview
 
-- Here I'd like to save resources I found interesting or even useful :)
+- Here I'd like to save resources I found interesting or even useful. It doesn't mean I read them lol.
 
 - Collecting since `07-19-2022`
 
@@ -37,6 +37,10 @@ Table of Contents
 **Languages**
 
 - [English](#english)
+
+**Random**
+
+- [Random](#random)
 
 # Programming-related Resources
 
@@ -111,3 +115,9 @@ Table of Contents
 ### Books
 
 - [English Vocabulary in Use 3th Edition Advanced](https://www.amazon.com/English-Vocabulary-Use-Advanced-answers/dp/312541024X)
+
+# Random
+
+### Papers
+
+- [Quadcopter Dynamics and Simulation](https://andrew.gibiansky.com/blog/physics/quadcopter-dynamics/)
