@@ -34,6 +34,10 @@ Table of Contents
 
 - [Ukulele](#ukulele)
 
+**Languages**
+
+- [English](#english)
+
 # Programming-related Resources
 
 ## Linux
@@ -99,3 +103,11 @@ Table of Contents
 ### Courses
 
 - [Free 10 Day Course](https://www.youtube.com/watch?v=5bTE5fbxDsc&list=PL-RYb_OMw7Ge2KE0P_RP83vZyWxoC4OiO)
+
+# Languages
+
+## English
+
+### Books
+
+- [English Vocabulary in Use 3th Edition Advanced](https://www.amazon.com/English-Vocabulary-Use-Advanced-answers/dp/312541024X)
