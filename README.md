@@ -4,7 +4,7 @@
 
 ## Overview
 
-- Here I'd like to save resources I found interesting, or even useful :)
+- Here I'd like to save resources I found interesting or even useful :)
 
 - Collecting since `07-19-2022`
 
@@ -30,7 +30,11 @@ Table of Contents
 - [Programming](#programming)
 - [Music](#music)
 
-# Technical Resources
+**Music**
+
+- [Ukulele](#ukulele)
+
+# Programming-related Resources
 
 ## Linux
 
@@ -87,3 +91,11 @@ Table of Contents
 - [Making Music with Math](https://aatishb.com/stringmath/)
 
 - [Solving the Sound of a Guitar String](http://large.stanford.edu/courses/2007/ph210/pelc2/)
+
+# Music
+
+## Ukulele
+
+### Courses
+
+- [Free 10 Day Course](https://www.youtube.com/watch?v=5bTE5fbxDsc&list=PL-RYb_OMw7Ge2KE0P_RP83vZyWxoC4OiO)
