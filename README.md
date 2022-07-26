@@ -10,6 +10,8 @@
 
 - Inspired of [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
+- **13** links has been collected
+
 ---
 
 Table of Contents
