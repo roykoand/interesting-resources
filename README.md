@@ -79,7 +79,7 @@ Table of Contents
 
 ## Git
 
-### Books
+### Blogs
 
 - [Think Like (a) Git](https://think-like-a-git.net/)
 
