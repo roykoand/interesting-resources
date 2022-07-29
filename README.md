@@ -25,6 +25,7 @@ Table of Contents
 - [Networking](#networking)
 - [Python](#python)
 - [Vimscript](#vimscript)
+- [Git](#git)
 - [Reinforcement learning](#reinforcement-learning)
 
 **Math**
@@ -75,6 +76,12 @@ Table of Contents
 ### Books
 
 - [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com/)
+
+## Git
+
+### Books
+
+- [Think Like (a) Git](https://think-like-a-git.net/)
 
 ## Reinforcement learning
 
