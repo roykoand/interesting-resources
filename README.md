@@ -10,7 +10,7 @@
 
 - Inspired of [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-- **14** links have been collected
+- **15** links have been collected
 
 ---
 
@@ -82,6 +82,10 @@ Table of Contents
 ### Blogs
 
 - [Think Like (a) Git](https://think-like-a-git.net/)
+
+### Books
+
+- [Git Internals](https://github.com/pluralsight/git-internals-pdf)
 
 ## Reinforcement learning
 
