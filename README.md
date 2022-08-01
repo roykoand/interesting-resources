@@ -10,7 +10,7 @@
 
 - Inspired of [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-- **15** links have been collected
+- **16** links have been collected
 
 ---
 
@@ -26,6 +26,7 @@ Table of Contents
 - [Python](#python)
 - [Vimscript](#vimscript)
 - [Git](#git)
+- [Parsing](#parsing)
 - [Reinforcement learning](#reinforcement-learning)
 
 **Math**
@@ -86,6 +87,12 @@ Table of Contents
 ### Books
 
 - [Git Internals](https://github.com/pluralsight/git-internals-pdf)
+
+## Parsing
+
+### courses
+
+- [Stanford CS143 Notes: Parsing](https://web.stanford.edu/class/archive/cs/cs143/cs143.1156/handouts/parsing.pdf)
 
 ## Reinforcement learning
 
