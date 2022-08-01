@@ -90,7 +90,7 @@ Table of Contents
 
 ## Parsing
 
-### courses
+### Courses
 
 - [Stanford CS143 Notes: Parsing](https://web.stanford.edu/class/archive/cs/cs143/cs143.1156/handouts/parsing.pdf)
 
