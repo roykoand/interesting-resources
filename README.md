@@ -10,7 +10,7 @@
 
 - Inspired of [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-- **16** links have been collected
+- **17** links have been collected
 
 ---
 
@@ -91,7 +91,7 @@ Table of Contents
 ## Parsing
 
 ### Courses
-
+- [A Guide To Parsing: Algorithms And Terminology](https://tomassetti.me/guide-parsing-algorithms-terminology/)
 - [Stanford CS143 Notes: Parsing](https://web.stanford.edu/class/archive/cs/cs143/cs143.1156/handouts/parsing.pdf)
 
 ## Reinforcement learning
