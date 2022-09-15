@@ -10,7 +10,7 @@
 
 - Inspired of [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-- **18** links have been collected
+- **19** links have been collected
 
 ---
 
@@ -23,6 +23,7 @@ Table of Contents
 - [Linux](#linux)
 - [Hardware](#hardware)
 - [Networking](#networking)
+- [Database](#database)
 - [Python](#python)
 - [Vimscript](#vimscript)
 - [Git](#git)
@@ -65,6 +66,13 @@ Table of Contents
 ### Blogs
 
 - [Let's code a TCP/IP stack](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+
+## Database
+
+### Blogs
+
+- [Let's Build a Simple Database (Writing a sqlite clone from scratch in C)](https://cstack.github.io/db_tutorial/)
+
 
 ## Python
 
