@@ -10,7 +10,7 @@
 
 - Inspired of [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-- **19** links have been collected
+- **20** links have been collected
 
 ---
 
@@ -73,12 +73,12 @@ Table of Contents
 
 - [Let's Build a Simple Database (Writing a sqlite clone from scratch in C)](https://cstack.github.io/db_tutorial/)
 
-
 ## Python
 
 ### Blogs
 
 - [Python behind the scenes (with diving into the Cpython)](https://tenthousandmeters.com/)
+- [Speed up your data science and scientific computing code](https://pythonspeed.com/datascience/)
 
 ## Vimscript
 
@@ -99,6 +99,7 @@ Table of Contents
 ## Parsing
 
 ### Courses
+
 - [A Guide To Parsing: Algorithms And Terminology](https://tomassetti.me/guide-parsing-algorithms-terminology/)
 - [Stanford CS143 Notes: Parsing](https://web.stanford.edu/class/archive/cs/cs143/cs143.1156/handouts/parsing.pdf)
 
@@ -147,6 +148,7 @@ Table of Contents
 # Random
 
 ### Books
+
 - [Software Engineering at Google: Lessons Learned from Programming Over Time](https://www.amazon.com/Software-Engineering-Google-Lessons-Programming/dp/1492082791)
 
 ### Papers
