@@ -10,7 +10,7 @@
 
 - Inspired of [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
 
-- **20** links have been collected
+- **21** links have been collected
 
 ---
 
@@ -72,7 +72,7 @@ Table of Contents
 ### Blogs
 
 - [Let's Build a Simple Database (Writing a sqlite clone from scratch in C)](https://cstack.github.io/db_tutorial/)
-
+- [Semantic Diff for SQL](https://github.com/tobymao/sqlglot/blob/main/posts/sql_diff.md)
 ## Python
 
 ### Blogs
